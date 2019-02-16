@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	each object, boom in boomgates
+		.inner
+			h2 #{boom} 
+			li #{object.distance}
+			each depature in object.departuresText
+				li #{depature}
+				if deapture != null
+					li #{depature}

@@ -1,0 +1,1094 @@
+[
+	{
+		"name":"Union Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1189",
+				"direction_id":["1"]
+			},
+
+			"station2":
+			{
+				"stop_id":"1037",
+				"direction_id":["3", "9"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Mont Albert Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1129",
+				"direction_id":["1"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1189",
+				"direction_id":["3", "9"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Heatherdale Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1091",
+				"direction_id":["3", "9"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1163",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Dublin Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1163",
+				"direction_id":["9"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1164",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Coolstore Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1048",
+				"direction_id":["9"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1133",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Blackburn Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1023",
+				"direction_id":["3", "9"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1148",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Madden Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1030",
+				"direction_id":["7"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1094",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Glenferrie Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1094",
+				"direction_id":["7"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1110",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Toorak Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1030",
+				"direction_id":["7"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1094",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Tooronga Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1195",
+				"direction_id":["7"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1075",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"High St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1077",
+				"direction_id":["7"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1051",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Riversdale Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1166",
+				"direction_id":["1"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1213",
+				"direction_id":["0"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Prospect Hill Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1032",
+				"direction_id":["1"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1166",
+				"direction_id":["0"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Bedford Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1163",
+				"direction_id":["3"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1092",
+				"direction_id":["1"]
+			}
+		}
+		
+	},
+
+	{
+		"name":"Mountain Hwy",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1092",
+				"direction_id":["3"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1016",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Scoresby Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1016",
+				"direction_id":["3"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1025",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Alpine St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1067",
+				"direction_id":["3"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1199",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Railway Ave",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1067",
+				"direction_id":["3"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1199",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Grange Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1036",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1034",
+				"direction_id":["1"]
+			}
+		}
+	},
+
+	{
+		"name":"Koornang Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1036",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1034",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Murrumbeena Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1034",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1138",
+				"direction_id":["1"]
+			}
+		}		
+	},
+
+	{
+		"name":"Poath Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1138",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1098",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Clayton Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1098",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1040",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Centre Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1040",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1208",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Corrigan Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1172",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1142",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Heatherton Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1172",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1142",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Chandler Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1142",
+				"direction_id":["11,4"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1215",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Webster St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1049",
+				"direction_id":["11"]
+			},
+			
+			"station2":
+			{
+				"stop_id":"1085",
+				"direction_id":["1"],
+				"delay":"2"
+			}
+		}	
+	},
+
+	{
+		"name":"South Gippsland Hwy",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1049",
+				"direction_id":["11"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1085",
+				"direction_id":["1"],
+				"delay":"1"
+			}
+		}	
+	},
+
+	{
+		"name":"Progress St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1049",
+				"direction_id":["11"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1085",
+				"direction_id":["1"],
+				"delay":"1"
+			}
+		}	
+	},
+
+	{
+		"name":"Hallum S Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1085",
+				"direction_id":["11"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1139",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Webb St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1085",
+				"direction_id":["11"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1139",
+				"direction_id":["1"],
+				"delay":"1"
+			}
+		}	
+	},
+
+	{
+		"name":"Clyde Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1139",
+				"direction_id":["11"],
+				"delay":"2"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1021",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Webb St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1017",
+				"direction_id":["11"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1151",
+				"direction_id":["1"],
+				"delay":"2"
+			}
+		}	
+	},
+
+	{
+		"name":"Officer S Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1017",
+				"direction_id":["11"],
+				"delay":"2"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1151",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Cardiner Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1151",
+				"direction_id":["11"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1223",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Mcregor Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1223",
+				"direction_id":["11"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1153",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Popular Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1069",
+				"direction_id":["15"],
+				"delay":"1"
+			},
+			
+			"station2":
+			{
+				"stop_id":"1169",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Park st",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1223",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1153",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Brunswick Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1223",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1153",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Union St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1103",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1029",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Dawson St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1103",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1029",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Albert St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1103",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1029",
+				"direction_id":["1"]
+				
+			}
+		}	
+	},
+
+	{
+		"name":"Victoria St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1029",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1006",
+				"direction_id":["1"],
+				"delay": "1"
+			}
+		}	
+	},
+
+	{
+		"name":"Hope St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1029",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1006",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Albion St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1006",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1135",
+				"direction_id":["1"],
+				"delay": "1"
+			}
+		}	
+	},
+
+	{
+		"name":"Moreland Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1006",
+				"direction_id":["15"],
+				"delay": "1"
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1135",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Reynard St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1135",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1042",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Munro St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1135",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1042",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Bell St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1042",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1014",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Ohea St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1042",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1014",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Gaffney St",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1042",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1014",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Bakers Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1014",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1124",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Boundary Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1124",
+				"direction_id":["15"]
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1066",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Box Forest Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1066",
+				"direction_id":["15"],
+				"delay": "1"
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1083",
+				"direction_id":["1"]
+			}
+		}	
+	},
+
+	{
+		"name":"Camp Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1083",
+				"direction_id":["15"],
+				"delay": "1"
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1198",
+				"direction_id":["1"],
+				"delay": "2"
+			}
+		}	
+	},
+
+	{
+		"name":"Barry Rd",
+		"stations":
+		{
+			"station1":
+			{
+				"stop_id":"1083",
+				"direction_id":["15"],
+				"delay": "3"
+				
+			},
+			
+			"station2":
+			{
+				"stop_id":"1198",
+				"direction_id":["1"]
+			}
+		}	
+	}
+
+]

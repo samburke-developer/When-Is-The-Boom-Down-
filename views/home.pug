@@ -1,0 +1,38 @@
+extends layout
+
+block content
+	script(src="/dist/location.js")
+	.inner
+		h3 Please wait while we find your location...
+		image(src='/images/loading.gif')
+
+	script.
+		var options = {
+		  enableHighAccuracy: true,
+		  timeout: 10000,
+		  maximumAge: 0
+		};
+
+		function getIP() 
+		{
+		  
+		  var xhttp = new XMLHttpRequest();  
+		  
+		  xhttp.onreadystatechange = function() {
+		    if (xhttp.readyState === 4) {
+		      document.write(xhttp.response);
+		      window.getLocation();
+		    }
+		  }
+
+		  xhttp.open("POST", window.location.href + "ip");
+		  xhttp.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+		  xhttp.send();
+		}
+
+
+
+		window.onload = getIP;
+				
+ 
+

@@ -1,0 +1,35 @@
+doctype html
+html
+  head
+    title= `Is the Boom Down?`
+    link(rel='stylesheet', href='/dist/style.css')
+    link(rel="shortcut icon" type="image/png" href="/images/icons/lights.png")
+    <link href="https://fonts.googleapis.com/css?family=Trirong" rel="stylesheet">
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    <html prefix="og: http://ogp.me/ns#">
+    <meta property="og:title" content="Is the Boom Down?" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://whenistheboomdown.com/" />
+    <meta property="og:image" content="http://whenistheboomdown.com/images/shareImage.jpg" />
+    <meta property="og:description" content="See when the boom gates near you will be down." />
+    script(src="/dist/location.js")
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133242434-1"></script>
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-133242434-1');
+
+
+  body
+    .content
+      block content
+    .push
+
+    footer
+      <a href=mailto:sam.fitz.burke@gmail.com?subject=whenistheboomdown data-hover="Created by Sam Burke">Created by Sam Burke</a>
+
+  
+
